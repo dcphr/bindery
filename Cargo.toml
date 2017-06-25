@@ -1,0 +1,8 @@
+[package]
+name = "bindery"
+version = "0.1.0"
+authors = ["Casey Robinson <casey@rampantmonkey.com>", "Scott Steele <scottlsteele@gmail.com>"]
+build = "build.rs"
+
+[dependencies]
+clap = "2.25.0"
