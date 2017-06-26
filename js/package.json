@@ -1,0 +1,22 @@
+{
+  "name": "bindery-web",
+  "version": "0.1.0",
+  "description": "a place to build books",
+  "main": "main.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dcphr/bindery.git"
+  },
+  "author": "Casey Robinson <casey@rampantmonkey.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dcphr/bindery/issues"
+  },
+  "homepage": "http://dcphr.org",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
